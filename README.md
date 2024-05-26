@@ -23,7 +23,8 @@ It has plenty of features in harmony with minimalistic design.
   - Sticker
 
 ## 👀 Gallery
-![](gallery/preview.mp4)
+
+[](https://github.com/uni-board/uniboard/assets/79582543/e4557f01-bd0a-44db-a104-3a632df4487d)
 
 ## 📂 Source code
 
