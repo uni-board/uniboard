@@ -55,6 +55,8 @@ bash install.sh
 
 ...and you are ready to go! Just to go [http://localhost:3000](http://localhost:3000) to see your self-hosted board
 
+## 🌉 API
+Public API to communicate between frontend and backend is available in [Postman](https://documenter.getpostman.com/view/33493459/2sA3JM61CJ)
 ## ⚖ License
 ```
 MIT License
